@@ -1,0 +1,7 @@
+standard quality
+default settings
+no supports
+.4 mm nozzel recomended
+raft is recommended for all parts execept protoglove parts
+reduce print speed to 15mm/s for the rack and gears
+all parts have a sensable orientation 
