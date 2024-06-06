@@ -1,10 +1,10 @@
 for 1 hand
 from proto glove
-1 thumb plate
-1 hand plate (modular)
-1 controller ring mount
-1 controller mount
-5 single point modular mounts
+  1 thumb plate
+  1 hand plate (modular)
+  1 controller ring mount
+  1 controller mount
+  5 single point modular mounts
 
 from this repo
 for tracking fingers
@@ -13,6 +13,7 @@ rack units
   5 racks
   5 fingerline
   5 spur gear
+  14 guides (sewing or glue)
 
 for espcase
   1 lid
@@ -20,4 +21,11 @@ for espcase
   1 button push
 
 for buttons
-  1
+  1 button baseplate
+  2 button house
+
+for joystick
+  1 joystick mount (may need adjusting)
+  1 joystick ring (may need adjusting)
+  1 joystick nub (may need adjusting)
+
