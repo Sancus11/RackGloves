@@ -5,3 +5,4 @@ no supports
 raft is recommended for all parts execept protoglove parts
 reduce print speed to 15mm/s for the rack and gears
 all parts have a sensable orientation 
+some parts sizes specified in meters. please ajust as needed
