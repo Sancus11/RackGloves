@@ -15,6 +15,8 @@ rack units
   5 spur gear
   14 guides (sewing or glue)
 
+  5 10k potentiometers
+
 for espcase
   1 lid
   1 case
@@ -24,8 +26,24 @@ for buttons
   1 button baseplate
   2 button house
 
+  2 6mm pushbuttons 
+
 for joystick
   1 joystick mount (may need adjusting)
   1 joystick ring (may need adjusting)
   1 joystick nub (may need adjusting)
+  
+  5 pin female jst connector
+  1 joystick unit
 
+Needed tools to assemble
+  Sandpaper
+  3d printer
+  Soldering station
+  Wire
+  hotglue
+  Super glue
+  Sewing thread and needle (optional)
+  wd-40 
+  Drill bits (optional)
+  Twist ties
