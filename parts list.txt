@@ -1,0 +1,58 @@
+for 1 hand
+from proto glove
+  1 thumb plate
+  1 hand plate (modular)
+  1 controller ring mount
+  1 controller mount
+  5 single point modular mounts
+
+from this repo
+for tracking fingers
+rack units
+  5 bodies
+  5 racks
+  5 fingerline
+  5 spur gear
+  14 guides (sewing or glue)
+
+  non printed
+  5 10k potentiometers
+
+for espcase
+  1 lid
+  1 case
+  1 button push
+
+for buttons
+  1 button baseplate
+  2 button house
+
+  non printed
+  2 6mm pushbuttons 
+
+for joystick
+  1 joystick mount (may need adjusting)
+  1 joystick ring (may need adjusting)
+  1 joystick nub (may need adjusting)
+
+  non printed
+  5 pin female jst connector
+  1 joystick unit
+
+Needed tools to assemble
+  Sandpaper
+  3d printer
+  Soldering station
+  Wire
+  hotglue
+  Super glue
+  Sewing thread and needle (optional)
+  wd-40 
+  Drill bits (optional)
+  Twist ties
+
+list of non 3d printed parts (duplicates in prior lists)
+  2 6mm pushbuttons 
+  5 10k potentiometers
+  5 pin female jst connector
+  1 joystick unit
